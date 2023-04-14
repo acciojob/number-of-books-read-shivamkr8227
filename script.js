@@ -31,4 +31,4 @@ const numberOfBooksRead = () => {
 
 // Do not change the code below
 
-// alert(numberOfBooksRead());
+alert(numberOfBooksRead());
